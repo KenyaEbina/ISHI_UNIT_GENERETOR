@@ -93,7 +93,7 @@ function App() {
         <div className="flex flex-col lg:flex-row gap-8">
           {/* 左側: コントロールパネル */}
           <div className="lg:w-64 flex-shrink-0">
-            <h1 className="text-3xl font-bold mb-8 text-black">ISHI(14) GRID</h1>
+            <h1 className="text-3xl font-bold mb-8 text-black">ISHI(14) UNIT GENERATOR</h1>
 
             <div className="space-y-4">
               <button
